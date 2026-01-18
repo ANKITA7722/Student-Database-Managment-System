@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "78d5",
+      "stuno": "1",
+      "name": "Ankita",
+      "email": "ankita@gmail.com",
+      "contact": "7722843205"
+    },
+    {
+      "id": "9af2",
+      "stuno": "2",
+      "name": "Megha",
+      "email": "megha@gmail.com",
+      "contact": "0564373343"
+    }
+  ]
+}
